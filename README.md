@@ -130,7 +130,7 @@ AI-Cancer-and-Plant-Disease-Detection/
 
 The models were trained on publicly available datasets:
 
-1. **Cancer Detection**: [Breast Cancer Histopathological Dataset](https://www.kaggle.com/paultimothymooney/breast-histopathology-images)
+1. **Cancer Detection**: [Lung Cancer Histopathological Dataset]([https://www.kaggle.com/code/hasibalmuzdadid/lung-cancer-analysis-accuracy-96-4])
 2. **Plant Disease Detection**: [PlantVillage Dataset](https://www.kaggle.com/emmarex/plantdisease)
 
 You can download these datasets and use them for training the models.
